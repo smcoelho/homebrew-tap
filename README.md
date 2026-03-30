@@ -1,11 +1,11 @@
 # homebrew-lapin
 
-Private Homebrew tap for [Lapin Browser](https://github.com/smcoelho/lapin-browser).
+Private Homebrew tap for [Lapin Browser](https://github.com/smcoelho/tap-browser).
 
 ## Install
 
 ```bash
-brew tap smcoelho/lapin
+brew tap smcoelho/tap
 brew install --cask lapin-browser
 xattr -cr /Applications/LapinBrowser.app
 ```
@@ -21,5 +21,5 @@ xattr -cr /Applications/LapinBrowser.app
 
 ```bash
 brew uninstall --cask lapin-browser
-brew untap smcoelho/lapin
+brew untap smcoelho/tap
 ```
