@@ -1,6 +1,6 @@
-# homebrew-lapin
+# homebrew-tap
 
-Private Homebrew tap for [Lapin Browser](https://github.com/smcoelho/tap-browser).
+Private Homebrew tap for [Lapin Browser](https://github.com/smcoelho/lapin-browser).
 
 ## Install
 
