@@ -1,6 +1,6 @@
 cask "lapin-browser" do
-  version "1.0"
-  sha256 "f6bcb4740c885a89e632a7cdbc0673298e4c684cc964aa828b7593943cfd0dd6"
+  version "1.1"
+  sha256 "48c14de96b044095100b16bd0babe9834cce96041542d478049a79215e93e89f"
 
   url "https://github.com/smcoelho/lapin-browser/releases/download/v#{version}/LapinBrowser-#{version}.zip"
   name "Lapin Browser"
