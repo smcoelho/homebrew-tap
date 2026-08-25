@@ -7,7 +7,7 @@ cask "lapin-browser" do
   desc "macOS menu bar app that routes URLs to browser profiles"
   homepage "https://github.com/smcoelho/lapin-browser"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "LapinBrowser.app"
 
